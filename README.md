@@ -21,7 +21,7 @@
 
 :handshake: <font size="4">**Contact With Me**</font>
 
-[![Home Icon](https://github.com/sunny-ops/Images/blob/main/profile.png)](https://shi-zhong-homepage.netlify.app/)
+[![Home Icon](<img src="https://github.com/sunny-ops/Images/blob/main/profile.png" width="100">)](https://shi-zhong-homepage.netlify.app/)
 
 
 <!--
