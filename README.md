@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Sunny
 
 :woman_technologist: <font size="4">**About Me**</font>
-  :black_circle: :school: Studying Computer Science, computer programming at Northeastern University.
-  :black_small_circle:
-  :black_small_circle:
+  :black_small_square: :school: Studying Computer Science, computer programming at Northeastern University.
+  :black_small_square:
+  :black_small_square:
 
 <!--
 **sunny-ops/sunny-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
