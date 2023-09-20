@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sunny
 
-:woman_office_worker:
+:woman_technologist: About me
 
 <!--
 **sunny-ops/sunny-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
