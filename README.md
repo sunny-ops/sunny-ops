@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sunny
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+:woman_office_worker:
 
 <!--
 **sunny-ops/sunny-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
