@@ -20,7 +20,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp;&nbsp; Visual Studio Code | PyCharm | IntelliJ IDEA | Git
 
 :handshake: <font size="4">**Contact With Me**</font>
-<img src="https://github.com/sunny-ops/Images/blob/main/profile.png" width="100">
 
 <a href="https://shi-zhong-homepage.netlify.app/">
     <img src="your_image_url_here" width="100">
