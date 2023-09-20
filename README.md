@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sunny
 
 :woman_technologist: <font size="4">**About Me**</font>
-  :black_small_circle: :school: Studying Computer Science, computer programming at Northeastern University.
+  :black_circle: :school: Studying Computer Science, computer programming at Northeastern University.
   :black_small_circle:
   :black_small_circle:
 
