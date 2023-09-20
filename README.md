@@ -21,7 +21,7 @@
 
 :handshake: <font size="4">**Contact With Me**</font>
 
-[![GitHub](https://github.githubassets.com/favicon.ico "Visit my GitHub")](https://github.com/your_username)
+[![Home Icon](https://github.com/sunny-ops/Images/blob/main/profile.png)](https://shi-zhong-homepage.netlify.app/)
 
 
 <!--
