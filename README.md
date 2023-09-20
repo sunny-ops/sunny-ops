@@ -11,13 +11,13 @@
 
 :hammer_and_wrench: <font size="4">**Technical Stack**</font>
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:keyboard:&nbsp;Java | Python | JavaScript | C++ | TypeScript
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:keyboard:&nbsp;Java | Python | JavaScript | C++ | TypeScript
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:four_leaf_clover:&nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:four_leaf_clover:&nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:floppy_disk:&nbsp; MySQL | PostgreSQL | MongoDB
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:floppy_disk:&nbsp; MySQL | PostgreSQL | MongoDB
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:dagger:&nbsp; VS Code | PyCharm | IntelliJ IDEA | Git
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp; VS Code | PyCharm | IntelliJ IDEA | Git
 
 
 <!--
