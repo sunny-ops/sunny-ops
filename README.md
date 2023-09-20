@@ -29,10 +29,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shi-zhong-bb94a4229/">
-      <img src="https://github.com/sunny-ops/Images/blob/main/linkedin1.png" height="45">
+      <img src="https://github.com/sunny-ops/Images/blob/main/linkedin1.png" height="50">
   </a>
   &nbsp;&nbsp;
-  <a href="zhong.shi1@northeastern.edu">
+  <a href="mailto:zhong.shi1@northeastern.edu">
       <img src="https://github.com/sunny-ops/Images/blob/main/gmail.png" height="50">
   </a>
 </div>
