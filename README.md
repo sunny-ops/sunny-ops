@@ -22,7 +22,7 @@
 :handshake: <font size="4">**Contact With Me**</font>
 
 <a href="https://shi-zhong-homepage.netlify.app/">
-    <img src="your_image_url_here" width="100">
+    <img src="https://github.com/sunny-ops/Images/blob/main/profile.png" width="100">
 </a>
 
 
