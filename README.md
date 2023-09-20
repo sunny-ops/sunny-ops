@@ -19,7 +19,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp;&nbsp; Visual Studio Code | PyCharm | IntelliJ IDEA | Git
 
-:handshake:font size="4">**Contact With Me**</font>
+:handshake: <font size="4">**Contact With Me**</font>
 
 [![GitHub](https://github.githubassets.com/favicon.ico "Visit my GitHub")](https://github.com/your_username)
 
