@@ -15,6 +15,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:four_leaf_clover:&nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap
 
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:floppy_disk:&nbsp; MySQL | PostgreSQL | MongoDB
+
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;:dagger:&nbsp; VS Code | PyCharm | IntelliJ IDEA | Git
+
 
 <!--
 **sunny-ops/sunny-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
