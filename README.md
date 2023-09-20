@@ -17,7 +17,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:floppy_disk:&nbsp;&nbsp; MySQL | PostgreSQL | MongoDB
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp;&nbsp; VS Code | PyCharm | IntelliJ IDEA | Git
+&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp;&nbsp; Visual Studio Code | PyCharm | IntelliJ IDEA | Git
 
 
 <!--
