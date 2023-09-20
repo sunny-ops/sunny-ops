@@ -2,11 +2,11 @@
 
 :woman_technologist: <font size="4">**About Me**</font>
 
-:black_small_square: :school: Studying Computer Science, Computer Programming at Northeastern University.
+&nbsp;&nbsp;:black_small_square: :school: Studying Computer Science, Computer Programming at Northeastern University.
   
-:black_small_square: :computer: Passionate about programming, especially for Web Development.
+&nbsp;&nbsp;:black_small_square: :computer: Passionate about programming, especially for Web Development.
 
-:black_small_square: :thinking: Enthusiast in learning new technologies and address real-world challenges.
+&nbsp;&nbsp;:black_small_square: :thinking: Enthusiast in learning new technologies and address real-world challenges.
 
 <!--
 **sunny-ops/sunny-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
