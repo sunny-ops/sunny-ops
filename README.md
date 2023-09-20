@@ -23,7 +23,7 @@
 
 
 <div>
-  [![Alt text for the image](https://github.com/sunny-ops/Images/blob/main/gmail_small.png)](zhong.shi1@northeastern.edu)
+
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://shi-zhong-homepage.netlify.app/">
     <img src="https://github.com/sunny-ops/Images/blob/main/profile.png" height="50">
