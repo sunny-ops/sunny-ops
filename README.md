@@ -25,7 +25,7 @@
     <img src="https://github.com/sunny-ops/Images/blob/main/profile.png" height="50">
 </a>
 <a href="https://www.linkedin.com/in/shi-zhong-bb94a4229/">
-    <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="50">
+    <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="40">
 </a>
 <a href="zhong.shi1@northeastern.edu">
     <img src="https://github.com/sunny-ops/Images/blob/main/gmail.png" height="50">
