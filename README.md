@@ -29,7 +29,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shi-zhong-bb94a4229/">
-      <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="40">
+      <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="50">
   </a>
   &nbsp;&nbsp;
   <a href="zhong.shi1@northeastern.edu">
