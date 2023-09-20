@@ -22,13 +22,13 @@
 :handshake: <font size="4">**Contact With Me**</font>
 
 <a href="https://shi-zhong-homepage.netlify.app/">
-    <img src="https://github.com/sunny-ops/Images/blob/main/profile.png" width="60">
+    <img src="https://github.com/sunny-ops/Images/blob/main/profile.png" height="50">
 </a>
 <a href="https://www.linkedin.com/in/shi-zhong-bb94a4229/">
-    <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" width="60">
+    <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="50">
 </a>
 <a href="zhong.shi1@northeastern.edu">
-    <img src="https://github.com/sunny-ops/Images/blob/main/gmail.png" width="60">
+    <img src="https://github.com/sunny-ops/Images/blob/main/gmail.png" height="50">
 </a>
 
 
