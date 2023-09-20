@@ -20,6 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp;&nbsp; Visual Studio Code | PyCharm | IntelliJ IDEA | Git
 
 :handshake: <font size="4">**Contact With Me**</font>
+[![Alt text for the image](https://github.com/sunny-ops/Images/blob/main/gmail_small.png)](zhong.shi1@northeastern.edu)
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
