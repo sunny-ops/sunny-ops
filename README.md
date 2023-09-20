@@ -21,7 +21,6 @@
 
 :handshake: <font size="4">**Contact With Me**</font>
 
-
 <div>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,9 +30,9 @@
   &nbsp;&nbsp;
   <div>
     <a href="https://www.linkedin.com/in/shi-zhong-bb94a4229/">
-      <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="40">
+      <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" height="40"></a>
       <img src="https://github.com/sunny-ops/Images/blob/main/linkedin.png" alt="adjuster" height="10px">
-    </a>
+    
   <div>
   &nbsp;&nbsp;
   <a href="zhong.shi1@northeastern.edu">
