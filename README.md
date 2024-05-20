@@ -1,14 +1,15 @@
 ### Hi there 👋 I'm Sunny
-<p>:woman_technologist: <strong>About Me</strong></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :school: Studying Computer Science, Computer Programming at Northeastern University.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :computer: Passionate about programming, especially for Web Development.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :thinking: Enthusiast in learning new technologies and addressing real-world challenges.</p>
-<p>:hammer_and_wrench: <strong>Technical Stack</strong></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :keyboard: Java | Python | JavaScript | C++ | TypeScript</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :four_leaf_clover: HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :floppy_disk: MySQL | PostgreSQL | MongoDB</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: :dagger: Visual Studio Code | PyCharm | IntelliJ IDEA | Git</p>
-<p>:handshake: <strong>Contact With Me</strong></p>
+<p>&#128105;&#8205;&#128187; <strong>About Me</strong></p>
+<p>&#9642; &#127891; Studying Computer Science, Computer Programming at Northeastern University.</p>
+<p>&#9642; &#128187; Passionate about programming, especially for Web Development.</p>
+<p>&#9642; &#128171; Enthusiast in learning new technologies and addressing real-world challenges.</p>
+<p>&#128295; <strong>Technical Stack</strong></p>
+<p>&#9642; &#9000; Java | Python | JavaScript | C++ | TypeScript</p>
+<p>&#9642; &#127808; HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap</p>
+<p>&#9642; &#128190; MySQL | PostgreSQL | MongoDB</p>
+<p>&#9642; &#128737; Visual Studio Code | PyCharm | IntelliJ IDEA | Git</p>
+<p>&#129309; <strong>Contact With Me</strong></p>
+
 
 
 <div>
