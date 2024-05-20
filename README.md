@@ -10,8 +10,6 @@
 <p>&#9642; &#128737; Visual Studio Code | PyCharm | IntelliJ IDEA | Git</p>
 <p>&#129309; <strong>Contact With Me</strong></p>
 
-
-
 <div>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
