@@ -1,25 +1,25 @@
 ### Hi there 👋 I'm Sunny
 
-:woman_technologist: <font size="4">**About Me**</font>
+:woman_technologist: **About Me**
 
+    :black_small_square: :school: Studying Computer Science, Computer Programming at Northeastern University.
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: &nbsp;:school: &nbsp;Studying Computer Science, Computer Programming at Northeastern University.
-  
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: &nbsp;:computer: &nbsp;Passionate about programming, especially for Web Development.
+    :black_small_square: :computer: Passionate about programming, especially for Web Development.
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: &nbsp;:thinking: &nbsp;Enthusiast in learning new technologies and address real-world challenges.
+    :black_small_square: :thinking: Enthusiast in learning new technologies and addressing real-world challenges.
 
-:hammer_and_wrench: <font size="4">**Technical Stack**</font>
+:hammer_and_wrench: **Technical Stack**
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:keyboard:&nbsp;&nbsp;Java | Python | JavaScript | C++ | TypeScript
+    :black_small_square: :keyboard: Java | Python | JavaScript | C++ | TypeScript
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:four_leaf_clover:&nbsp;&nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap
+    :black_small_square: :four_leaf_clover: HTML | CSS | JavaScript | NodeJS | ReactJS | Bootstrap
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:floppy_disk:&nbsp;&nbsp; MySQL | PostgreSQL | MongoDB
+    :black_small_square: :floppy_disk: MySQL | PostgreSQL | MongoDB
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;:dagger:&nbsp;&nbsp; Visual Studio Code | PyCharm | IntelliJ IDEA | Git
+    :black_small_square: :dagger: Visual Studio Code | PyCharm | IntelliJ IDEA | Git
 
-:handshake: <font size="4">**Contact With Me**</font>
+:handshake: **Contact With Me**
+
 
 <div>
 
